@@ -61,16 +61,3 @@ Enjoy 🎶
 
 📱 Better mobile UI support
 
-🤝 Contribution
-
-Want to make this music player even cooler?
-
-Fork the repo
-
-Create your feature branch (git checkout -b feature/YourFeature)
-
-Commit changes (git commit -m 'Add YourFeature')
-
-Push to branch (git push origin feature/YourFeature)
-
-Open a Pull Request
